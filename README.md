@@ -7,5 +7,5 @@
 1. make to do list for tomorrow
 2. Monitor it 
 3. Evaluate the result
-  ..* Lets say what happen
-  ..* be pataint
+..* Lets say what happen
+..* be pataint
