@@ -8,5 +8,12 @@
 2. Monitor it 
 3. Evaluate the result
 * Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+* Or minuses
+* Or pluses
+
+
+
+# Learning achieved
+## 1. (#) Tag for Heading
+## 2. Ordered List (1.)
+## 3. Unorderen List (*)
