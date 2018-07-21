@@ -1,4 +1,4 @@
-### Its just a initial ideas about productivety model based on some football strategies.
+# Its just some initial ideas about productivity model based on some football strategies.
 ### step 1: organizing various relevant resource and ideas 
 ### step 2: exploring and indentifying values in terms of model objectives 
 ### step 3: creating a value chain design that can be measurable (SMART)
